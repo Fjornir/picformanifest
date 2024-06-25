@@ -6,7 +6,7 @@ Simply put your image .png! what you want to get resized inside your_img folder
 
 ↓
 
-RUN resize.js
+RUN node resize.js
 
 ↓
 
