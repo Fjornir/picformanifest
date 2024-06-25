@@ -1,0 +1,14 @@
+{
+  "name": "picformanifest",
+  "version": "1.0.0",
+  "main": "resize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fjornir",
+  "license": "ISC",
+  "description": "Create resized pic for manifest",
+  "dependencies": {
+    "sharp": "^0.33.4"
+  }
+}
